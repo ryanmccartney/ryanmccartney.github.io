@@ -781,6 +781,7 @@
 
 				ul.icons li a:hover:before {
 					text-shadow: 1.25px 0px 0px #2dc73a, -1.25px 0px 0px #2dc73a, 0px 1.25px 0px #2dc73a, 0px -1.25px 0px #2dc73a;
+					color: #2dc73a;
 				}
 
 				ul.icons li a:before {
@@ -796,7 +797,7 @@
 				}
 
 				ul.icons li a:hover {
-					border-color: #c72d94;
+					border-color: #2dc73a;
 					color: #2dc73a;
 				}
 
