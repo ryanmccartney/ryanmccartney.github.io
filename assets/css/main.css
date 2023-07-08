@@ -868,6 +868,7 @@ ul.icons li a {
     text-align: center;
     text-indent: 3.75em;
     white-space: nowrap;
+    margin: auto;
 }
 
 ul.icons li a:before {
@@ -1044,6 +1045,14 @@ button:disabled,
     display: block;
     margin: 0 auto;
     border-radius: 100%;
+    box-shadow: 0 0 0 1.5em #ffffff;
+}
+
+#main .logo img {
+    display: block;
+    margin: 0 auto;
+    width: calc(100%);
+    height: calc(100%);
     box-shadow: 0 0 0 1.5em #ffffff;
 }
 
